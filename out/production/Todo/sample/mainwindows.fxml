@@ -15,7 +15,7 @@
 <BorderPane xmlns="http://javafx.com/javafx/8.0.191" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.Controller">
     <top>
         <MenuBar>
-            <Menu text="File">
+            <Menu text="File1">
                 <items>
                     <MenuItem text="New ...."/>
                     <SeparatorMenuItem/>
