@@ -7,11 +7,7 @@ public class ToDoItem {
     private String details;
     private LocalDate deadline;
 
-    @Override
-    public String toString() {
-        return shortDescription;
 
-    }
 
     public String getShortDescription() {
         return shortDescription;
